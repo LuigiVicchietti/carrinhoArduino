@@ -17,4 +17,3 @@ Feito para uma atividade na ETEC de Guaianazes.
 
 - 📌Finalizado.
 - 🛠 Dois scripts de versões diferentes para carrinhos distintos.
-- 🔗 https://luigivicchietti.github.io/siteSalmonelose/
